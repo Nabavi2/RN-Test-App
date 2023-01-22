@@ -1,4 +1,4 @@
-# Done-With-It-App
+# RN-Test-App
 A React Native app for students to sell properties they have no use for 
 
 
